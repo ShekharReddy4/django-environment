@@ -1,0 +1,8 @@
+ToDos.txt
+
+- What is web_project in django
+- what is django-admin
+- what 
+
+
+
